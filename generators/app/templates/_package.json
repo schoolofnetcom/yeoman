@@ -1,0 +1,9 @@
+{
+  "name": "<%= project_name %>",
+  "version": "1.0.0",
+  "description": "A simple web boialerplate HTML 5",
+  "author": "<%= author %>",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
