@@ -36,3 +36,16 @@ MIT © [Leonan Luppi](b)
 [daviddm-url]: https://david-dm.org//generator-son
 [coveralls-image]: https://coveralls.io/repos//generator-son/badge.svg
 [coveralls-url]: https://coveralls.io/r//generator-son
+
+
+Esse código foi utilizado para a criação do curso [Yeoman](https://www.schoolofnet.com/curso/frontend/automatizadores/yeoman/) da School of Net.
+
+A School of Net é uma escola online que ensina as mais diversas tecnologias no mundo da programação, desenvolvimento web, games, design e infraestrutura.
+
+School of Net - [https://www.schoolofnet.com](https://www.schoolofnet.com)
+
+Blog da School of Net - [https://blog.schoolofnet.com](https://blog.schoolofnet.com)
+
+SONCast - Podcast da School of Net - [https://podcast.schoolofnet.com](https://podcast.schoolofnet.com)
+
+Canal da School of Net no Youtube: [http://www.youtube.com/c/SchoolofNetCursos](http://www.youtube.com/c/SchoolofNetCursos)
